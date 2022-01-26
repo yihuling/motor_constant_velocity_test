@@ -1,0 +1,36 @@
+L3
+CANID-->1     real_position:[ -0.16460704803466797 ]real_Velocity[ 0.1746063232421875 ]real_Current[ -0.011722564697265625 ]
+CANID-->2     real_position:[ 0.048638343811035156 ]real_Velocity[ -0.01587677001953125 ]real_Current[ -0.011722564697265625 ]
+CANID-->3     real_position:[ -0.4839019775390625 ]real_Velocity[ -0.26984405517578125 ]real_Current[ -0.011722564697265625 ]
+CANID-->1     real_position:[ -0.16460704803466797 ]real_Velocity[ -0.07936859130859375 ]real_Current[ -0.011722564697265625 ]
+CANID-->2     real_position:[ 0.048638343811035156 ]real_Velocity[ -0.07936859130859375 ]real_Current[ -0.011722564697265625 ]
+CANID-->3     real_position:[ -0.4839019775390625 ]real_Velocity[ -0.33333587646484375 ]real_Current[ -0.011722564697265625 ]
+CANID-->1     real_position:[ -0.16498851776123047 ]real_Velocity[ -0.07936859130859375 ]real_Current[ -0.011722564697265625 ]
+
+L4
+CANID-->1     real_position:[ -0.7066831588745117 ]real_Velocity[ -0.5238113403320312 ]real_Current[ -0.011722564697265625 ]
+CANID-->2     real_position:[ -0.7265205383300781 ]real_Velocity[ -0.14286041259765625 ]real_Current[ -0.011722564697265625 ]
+CANID-->3     real_position:[ 0.24319076538085938 ]real_Velocity[ 0.111114501953125 ]real_Current[ -0.011722564697265625 ]
+CANID-->1     real_position:[ -0.7063016891479492 ]real_Velocity[ 0.4920654296875 ]real_Current[ -0.011722564697265625 ]
+CANID-->2     real_position:[ -0.7265205383300781 ]real_Velocity[ -0.01587677001953125 ]real_Current[ -0.011722564697265625 ]
+CANID-->3     real_position:[ 0.24357223510742188 ]real_Velocity[ 0.1746063232421875 ]real_Current[ -0.011722564697265625 ]
+
+L2
+CANID-->2     real_position:[ 1.5165557861328125 ]real_Velocity[ 0.23809814453125 ]real_Current[ -0.011722564697265625 ]
+CANID-->3     real_position:[ 0.7146940231323242 ]real_Velocity[ 0.4285736083984375 ]real_Current[ -0.011722564697265625 ]
+CANID-->1     real_position:[ 0.8764400482177734 ]real_Velocity[ -0.01587677001953125 ]real_Current[ -0.011722564697265625 ]
+CANID-->2     real_position:[ 1.51617431640625 ]real_Velocity[ -0.39682769775390625 ]real_Current[ -0.011722564697265625 ]
+CANID-->3     real_position:[ 0.7143125534057617 ]real_Velocity[ -0.07936859130859375 ]real_Current[ -0.011722564697265625 ]
+CANID-->1     real_position:[ 0.8764400482177734 ]real_Velocity[ 0.111114501953125 ]real_Current[ -0.011722564697265625 ]
+CANID-->2     real_position:[ 1.5165557861328125 ]real_Velocity[ 0.111114501953125 ]real_Current[ -0.011722564697265625 ]
+CANID-->3     real_position:[ 0.7146940231323242 ]real_Velocity[ 0.111114501953125 ]real_Current[ -0.011722564697265625 ]
+CANID-->1     real_position:[ 0.8764400482177734 ]real_Velocity[ 0.111114501953125 ]real_Current[ -0.011722564697265625 ]
+CANID-->2     real_position:[ 1.5165557861328125 ]real_Velocity[ 0.1746063232421875 ]real_Current[ -0.011722564697265625 ]
+L1
+CANID-->1     real_position:[ 0.5922403335571289 ]real_Velocity[ -0.01587677001953125 ]real_Current[ -0.011722564697265625 ]
+CANID-->2     real_position:[ 0.046349525451660156 ]real_Velocity[ 0.3015899658203125 ]real_Current[ -0.011722564697265625 ]
+CANID-->3     real_position:[ -0.17643260955810547 ]real_Velocity[ 0.111114501953125 ]real_Current[ -0.011722564697265625 ]
+CANID-->1     real_position:[ 0.5922403335571289 ]real_Velocity[ -0.14286041259765625 ]real_Current[ -0.011722564697265625 ]
+CANID-->2     real_position:[ 0.045968055725097656 ]real_Velocity[ -0.01587677001953125 ]real_Current[ -0.011722564697265625 ]
+CANID-->3     real_position:[ -0.17643260955810547 ]real_Velocity[ 0.1746063232421875 ]real_Current[ -0.011722564697265625 ]
+CANID-->1     real_position:[ 0.5918588638305664 ]real_Velocity[ -0.07936859130859375 ]real_Current[ -0.011722564697265625 ]
